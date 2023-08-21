@@ -1,7 +1,7 @@
 # CS_370_Current_And_Emerging_Trends_In_CS
 
 - Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
--         When given this project I was provided with a large portion of starting code. This consisted of 
+-         When given this project I was provided with a large portion of starting code. This consisted of the libraries to import, the maze layout,
 
 
 - Connect your learning from throughout this course to the larger field of computer science:
